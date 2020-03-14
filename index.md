@@ -5,9 +5,7 @@ author_profile: true
 classes: wide
 toc: false
 ---
-
-
-
+  
 <b>Profile</b>  
 ---
 

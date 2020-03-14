@@ -5,7 +5,6 @@ author_profile: true
 classes: wide
 toc: false
 ---
->## Profile
 
 I am a global sales and marketing scholar, data analyst, and technology enthusiast. I completed my Master's degree in Global Sales and Marketing at the University of Applied Science Upper Austria. At the same time, I took Business Informatics classes at Johannes Kepler University Linz, which allowed me to gain an understanding of programming and data science, which I used in a part-time job as a software tester. I researched the adoption of blockchain in Switzerland for my Master's thesis after moving to Zurich last year (2019). Since then, I have been learning more about data science and successfully completed the IBM Data Science Professional Certificate.
 

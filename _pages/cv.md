@@ -23,7 +23,8 @@ KEBA AG, Linz, Austria | 01.2018 - 01.2019
 * Co-designed and implemented automated test cases
 
 <b>Project Manager</b>  
-Dietmar Peneder Advertising Products, Linz, Austria | 12.2017 - 02.2018  
+Dietmar Peneder Advertising Products  
+Linz, Austria | 12.2017 - 02.2018  
 * Communicated and negotiated with customers  
 * Represented the company at two trade fairs  
 * Built up a customer database and promoted business  
@@ -82,7 +83,7 @@ German: Intermediate (ÖSD B2)
 ## Volunteer Experience
 
 <b>Digital Marketing & Event Management</b>   
-Swiss Finance + Technology Association (SFTA)
+Swiss Finance + Technology Association (SFTA)  
 Switzerland | 07.2019-12.2019
 
 <b>Cinema Support & Audience Award</b>   

@@ -13,7 +13,7 @@ toc_label: "Table of Contents"
 
 ## Work Experience
 <b>Intern Urban Resilience, Supply-chain R&D & DLT</b>   
-Swiss Re, Zurich, Switzerland | 03.2020-07.2020  
+Swiss Re, Zurich, Switzerland | 03.2020-Present  
 
 <b>Software Tester (Freelance)</b>  
 KEBA AG, Linz, Austria | 01.2018 - 01.2019  

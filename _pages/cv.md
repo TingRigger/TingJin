@@ -12,10 +12,10 @@ toc_label: "Table of Contents"
 ---
 
 ## Work Experience
-<b>Intern Urban Resilience, Supply-chain R&D & DLT</b>   
+<b>Intern Group Supply Chain Innovation & DLT</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-Present  
 
-<b>Software Tester (Freelance)</b>  
+<b>Software Tester</b>  
 KEBA AG, Linz, Austria | 01.2018 - 01.2019  
 * User interface testing  
 * Communication and coordination with developers  

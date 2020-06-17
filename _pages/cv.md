@@ -41,7 +41,7 @@ Sephora, Fujian, China | 07.2014 - 05.2015
 Bestseller (Vero Moda), Fujian, China | 02.2014 - 06.2014  
 * Promoted to be a store manager after one month by heavily exceeding the sales target   
 * Led 6 sales representatives and achieved sales growth by 120%   
-* Set goals and plans, analyzed customer behavior, trained employees   
+* Set goals and plans, analyzed customer behavior and sales KPIs, trained employees   
 
 ---
 ## Education  

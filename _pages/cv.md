@@ -13,7 +13,10 @@ toc_label: "Table of Contents"
 
 ## Work Experience
 <b>Intern Group Supply Chain Innovation & DLT</b>   
-Swiss Re, Zurich, Switzerland | 03.2020-Present  
+Swiss Re, Zurich, Switzerland | 03.2020-Present   
+* Identified unserved demand in the Agri-Tech industry   
+* Accelerate project's market research (led all quantitative and partly qualitative analyses), customer recruitment, and MVP development processes   
+* Drive business development and lead several key accounts management   
 
 <b>Software Tester</b>  
 KEBA AG, Linz, Austria | 01.2018 - 01.2019  
@@ -33,6 +36,12 @@ Linz, Austria | 12.2017 - 02.2018
 Sephora, Fujian, China | 07.2014 - 05.2015  
 * Learned multi-brand luxury retail shop management systematically
 * Rotated between various functions: sales, product, cashier, inventory, and management
+
+<b>Store Manager</b>  
+Bestseller (Vero Moda), Fujian, China | 02.2014 - 06.2014  
+* Promoted to be a store manager after one month by heavily exceeding the sales target   
+* Led 6 sales representatives and achieved sales growth by 120%   
+* Set goals and plans, analyzed customer behavior, trained employees   
 
 ---
 ## Education  

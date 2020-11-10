@@ -14,9 +14,11 @@ toc_label: "Table of Contents"
 ## Work Experience
 <b>Intern Group Supply Chain Innovation & DLT</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-Present   
-* Identified unserved demand in the Agri-Tech industry   
-* Accelerate project's market research (led all quantitative and partly qualitative analyses), customer recruitment, and MVP development processes   
-* Drive business development and lead several key accounts management   
+* Managed a joint innovation project between Swiss Re and corporate partners to develop new insurance solutions for farmers with the direct involvement of 30+ people under 5 streams   
+* Developed and accelerated projects from ideation, to desirability, feasibility, and MVP with clear deliverables within limited time   
+* Supported joint innovation projects between Swiss Re, corporate partners, and a top global technology company to develop new insurance solutions among supply chains with direct involvement of 10+ people   
+* Led and done market research with both quantitative and qualitative analyses in multiple projects. Identified unserved demand in the Agri-Tech industry   
+* Improved skills and speed to virtualize conception to PPT for better concrete communication and tangible progress   
 
 <b>Software Tester</b>  
 KEBA AG, Linz, Austria | 01.2018 - 01.2019  

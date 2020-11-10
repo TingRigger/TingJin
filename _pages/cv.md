@@ -93,6 +93,9 @@ German: Intermediate (ÖSD B2)
 ---
 ## Volunteer Experience
 
+<b>Zurich Film Festival Support</b>   
+Zurich Film Festival, Switzerland | 09.2020-10.2020
+
 <b>Digital Marketing & Event Management</b>   
 Swiss Finance + Technology Association (SFTA)  
 Switzerland | 07.2019-12.2019

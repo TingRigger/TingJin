@@ -22,10 +22,11 @@ Swiss Re, Zurich, Switzerland | 03.2020-Present
 
 <b>Software Tester</b>  
 KEBA AG, Linz, Austria | 01.2018 - 01.2019  
-* User interface testing  
-* Communication and coordination with developers  
-* Issues classification, tickets creation and reporting  
-* Co-designed and implemented automated test cases
+* Developed and maintained test cases, carried out new and existing tests in coordination with software developers   
+* Created SW-prototypes with KEBA's visualization software to define and carry out new test cases   
+* Re-created missing parts in the visualization and industrial control network for issue classifications   
+* Co-designed and implemented automated test cases (Ranorex and QF-Test)   
+* Learned and adopted holacracy, Scrum method, and Kanban boards to manage product development and enable team members to be self-organized   
 
 <b>Project Manager</b>  
 Dietmar Peneder Advertising Products  

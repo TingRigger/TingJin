@@ -58,6 +58,7 @@ Johannes Kepler University Linz, Austria | 09.2016-07.2017
 
 <b>International Economics and Trade (Bachelor in Economics)</b>    
 Quanzhou Normal University, China | 09.2010-07.2014  
+Thesis: The Dilemma between Globalization and Localization of Multinational Corporations
 
 <b>Finance and International Business (Exchange Semester)</b>    
 Fu Jen Catholic University, Taiwan | 09.2012-01.2013  

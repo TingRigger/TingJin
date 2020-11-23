@@ -26,7 +26,7 @@ KEBA AG, Linz, Austria | 01.2018 - 01.2019
 * Created SW-prototypes with KEBA's visualization software to define and carry out new test cases   
 * Re-created missing parts in the visualization and industrial control network for issue classifications   
 * Co-designed and implemented automated test cases (Ranorex and QF-Test)   
-* Learned and adopted holacracy, Scrum method, and Kanban boards to manage product development and enable team members to be self-organized   
+* Learned and adopted holacracy, Scrum, and Kanban boards to manage product development and enable team members to be self-organized   
 
 <b>Project Manager</b>  
 Dietmar Peneder Advertising Products  

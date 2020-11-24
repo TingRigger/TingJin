@@ -31,9 +31,10 @@ KEBA AG, Linz, Austria | 01.2018 - 01.2019
 <b>Project Manager</b>  
 Dietmar Peneder Advertising Products  
 Linz, Austria | 12.2017 - 02.2018  
-* Communicated and negotiated with customers  
-* Represented the company at two trade fairs  
-* Built up a customer database and promoted business  
+* Communicated and negotiated with both suppliers and customers to match product requirements   
+* Built-up a customer database and maintained customer relationship with key accounts   
+* Identified new products and supported customer expansion to the EU markets beyond Austria (e.g. Germany, UK, etc.)   
+* Assisted trade fair preparation and represented the company at trade fairs for sales and marketing purposes 
 
 <b>Operations Management Trainee</b>  
 Sephora, Fujian, China | 07.2014 - 05.2015  

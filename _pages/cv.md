@@ -38,8 +38,9 @@ Linz, Austria | 12.2017 - 02.2018
 
 <b>Operations Management Trainee</b>  
 Sephora, Fujian, China | 07.2014 - 05.2015  
-* Learned multi-brand luxury retail shop management systematically
-* Rotated between various functions: sales, product, cashier, inventory, and management
+* Achieved the highest sales record at that time: 20,000+ RMB for one customer   
+* Supported and systematically learned multi-brand luxury retail shop management   
+* Rotated between and responsible for different functions: sales, product, cashier, inventory, display, and management   
 
 <b>Store Manager</b>  
 Bestseller (Vero Moda), Fujian, China | 02.2014 - 06.2014  

@@ -99,14 +99,12 @@ German: Intermediate (ÖSD B2)
 ## Volunteer Experience
 
 <b>Zurich Film Festival Support</b>   
-Zurich Film Festival, Switzerland | 09.2020-10.2020
+Zurich Film Festival, Switzerland | 09.2020-10.2020   
+Zurich Film Festival, Switzerland | 09.2019-10.2019
 
 <b>Digital Marketing & Event Management</b>   
 Swiss Finance + Technology Association (SFTA)  
 Switzerland | 07.2019-12.2019
-
-<b>Cinema Support & Audience Award</b>   
-Zurich Film Festival, Switzerland | 09.2019-10.2019
 
 <b>Other Volunteers</b>  
 Seniorenzentrum Franz-Hillinger, Austria | 08.2018  

@@ -12,7 +12,7 @@ toc_label: "Table of Contents"
 ---
 
 ## Work Experience
-<b>Intern Group Digital Transformation</b>   
+<b>New Propositions Analyst</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-Present   
 * Managed a joint innovation project between Swiss Re and corporate partners to develop new insurance solutions for farmers with the direct involvement of 30+ people under 5 streams   
 * Developed and accelerated projects from ideation, to desirability, feasibility, and MVP with clear deliverables within limited time   

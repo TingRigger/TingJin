@@ -74,6 +74,9 @@ See <a href="https://www.researchgate.net/profile/Michael_Schmidthaler/publicati
 
 ---
 ## Awards & Certificates
+<b>PSM I (Professional Scrum Master I)</b>  
+Scrum.org | 03.2021  
+Please use my personal email address (ting.rigger@gmail.com) for my Certificate Verification. See <a href="https://www.scrum.org/certificates/639811">Certificate Verification</a>.
 
 <b>IBM Data Science Professional Certificate</b>  
 IBM & Coursera | 02.2020  

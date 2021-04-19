@@ -12,7 +12,7 @@ toc_label: "Table of Contents"
 ---
 
 ## Work Experience
-<b>Digital Transformation Manager<b>   
+<b>Digital Transformation Manager</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-Present   
 <b>New Propositions Analyst</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-02.2021   

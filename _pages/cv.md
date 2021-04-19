@@ -14,6 +14,7 @@ toc_label: "Table of Contents"
 ## Work Experience
 <b>Digital Transformation Manager</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-Present   
+
 <b>New Propositions Analyst</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-02.2021   
 * Managed a joint innovation project between Swiss Re and corporate partners to develop new insurance solutions for farmers with the direct involvement of 30+ people under 5 streams   

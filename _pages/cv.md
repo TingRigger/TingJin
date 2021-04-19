@@ -12,8 +12,10 @@ toc_label: "Table of Contents"
 ---
 
 ## Work Experience
+<b>Digital Transformation Manager<b>
+  Swiss Re, Zurich, Switzerland | 03.2020-Present 
 <b>New Propositions Analyst</b>   
-Swiss Re, Zurich, Switzerland | 03.2020-Present   
+Swiss Re, Zurich, Switzerland | 03.2020-02.2021   
 * Managed a joint innovation project between Swiss Re and corporate partners to develop new insurance solutions for farmers with the direct involvement of 30+ people under 5 streams   
 * Developed and accelerated projects from ideation, to desirability, feasibility, and MVP with clear deliverables within limited time   
 * Supported joint innovation projects between Swiss Re, corporate partners, and a top global technology company to develop new insurance solutions among supply chains with direct involvement of 10+ people   
@@ -43,9 +45,9 @@ Sephora, Fujian, China | 07.2014 - 05.2015
 * Rotated between and responsible for different functions: sales, product, cashier, inventory, display, and management   
 
 <b>Store Manager</b>  
-Bestseller (Vero Moda), Fujian, China | 02.2014 - 06.2014  
+Bestseller (Vero Moda), Fujian, China | 02.2014 - 07.2014  
 * Promoted to be a store manager in one month after onboarding by heavily exceeding the sales target (highest monthly sales record and personal sales record)   
-* Led and supported 6-8 sales representatives and achieved quadrupled sales growth within 4 months (RBM 40,000 in March to 210,000+ in June)   
+* Led and supported 6-8 sales representatives and achieved quadrupled sales growth within 4 months (RMB 40,000 in March to 210,000+ in June)   
 * Set goals and plans, analyzed customer behavior and sales KPIs, trained and supported sales representatives   
 * Managed and supported retail store transformation by hiring and training new talents   
 

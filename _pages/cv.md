@@ -14,6 +14,11 @@ toc_label: "Table of Contents"
 ## Work Experience
 <b>Digital Transformation Manager</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-Present   
+* Developed and co-led three virtual design thinking workshops by leveraging tools and creating templates to support L&H data-driven initiatives from identifying challenges to proposing concrete business plans for customers in Germany and the UK market. Gained clients' trust and confidence with ongoing collaborations
+* Created data literacy training contents from scratch and ran sessions for 100+ participants to advance data culture and innovation. Perceived as being highly business-relevant by both tech and business leads across regions
+* Developed an internal hackathon to engage key stakeholders & support hands-on experience by leveraging data analytics tools in China. Inspired and upskilled 30+ colleagues with direct involvement
+* Initiated & drove a hands-on project to support data-informed decision making by using Power BI
+* Contributed to various ad-hoc activities: video creation, campaigns, SharePoint pages design, event and community management, etc.   
 
 <b>New Propositions Analyst</b>   
 Swiss Re, Zurich, Switzerland | 03.2020-02.2021   

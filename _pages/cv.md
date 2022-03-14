@@ -58,7 +58,8 @@ Bestseller (Vero Moda), Fujian, China | 02.2014 - 07.2014
 * Managed and supported retail store transformation by hiring and training new talents   
 
 <b>Vice Leader (Internship)</b>  
-hina Unicom Quanzhou branch, Fujian, China | 07.2012 - 08.2012  
+China Unicom Quanzhou branch, Fujian, China   
+07.2012 - 08.2012  
 * Group leader of 5 people and vice leader of the Summer Practice Group of 30+ people   
 * Led the team, set targets, identified target customers, and led business negotiations   
 * Planned and implemented the execution plan and achieved the publication of a promotional book for university freshmen in Quanzhou, Fujian area   
